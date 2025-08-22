@@ -155,7 +155,7 @@ export default {
         />
         <WidgetFooter :config="getWidgetConfig" />
         <div class="py-2.5 flex justify-center">
-          <a
+          <!-- <a
             class="items-center gap-0.5 text-n-slate-11 cursor-pointer flex filter grayscale opacity-90 hover:grayscale-0 hover:opacity-100 text-xxs"
           >
             <img
@@ -169,7 +169,7 @@ export default {
                 )
               }}
             </span>
-          </a>
+          </a> -->
         </div>
       </div>
     </div>

@@ -50,6 +50,7 @@ export default {
 </script>
 
 <template>
+  <!-- 
   <div
     v-if="globalConfig.brandName && !disableBranding"
     class="px-0 py-3 flex justify-center"
@@ -71,4 +72,6 @@ export default {
     </a>
   </div>
   <div v-else class="p-3" />
+   -->
+  <div class="p-2"></div>
 </template>
